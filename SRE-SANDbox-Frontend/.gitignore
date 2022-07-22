@@ -1,0 +1,5 @@
+# dependencies # node_modules is a cache for the external modules that project depends upon 
+/node_modules 
+/.pnp
+.pnp.js
+

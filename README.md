@@ -1,12 +1,10 @@
 # SRE-SANDbox
 SRE-SANDbox project is created to simplify deploying any language app/databases without worrying about the underlying infrastructure. 
+User-friendly UI 
 
-Development Notes: 
-1. favicon added in the server / public 
-Format used: 
-Font Color - #FFFFFF
-Background Color - #005
-Font Family - Laila (Google Fonts)
-Font Variant - Regular 400 Normal 
-Font Size - 50 
+The entire application is divided into 4 components. 
+1. SRE-SANDbox-Server 
+2. SRE-SANDbox-Frontend 
+3. SRE-SANDbox-Apps
+4. SRE-SANDbox-Core 
 

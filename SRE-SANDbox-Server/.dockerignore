@@ -1,0 +1,4 @@
+#ignore files for docker image 
+
+.git 
+npm-debug.log
